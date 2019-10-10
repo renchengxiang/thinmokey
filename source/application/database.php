@@ -4,8 +4,8 @@
 $config = [
     'host' => '127.0.0.1',
     'database' => 'shop',
-    'username' => 'homestead',
-    'password' => 'secret',
+    'username' => 'root',
+    'password' => 'Ibelieve2017',
     'port' => '3306',
     'charset' => 'utf8',
 ];

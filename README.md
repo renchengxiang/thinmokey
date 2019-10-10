@@ -1,0 +1,2 @@
+# thinmokey
+Some personal projects
